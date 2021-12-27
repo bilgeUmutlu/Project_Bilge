@@ -1,0 +1,2 @@
+public class yalcin2 {
+}
